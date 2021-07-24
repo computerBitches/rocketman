@@ -1,0 +1,11 @@
+.main-header {
+    padding: 37px 0;
+    .container {
+        display: flex;
+        .logo {
+            flex-basis: 279px;
+            flex-grow: 0;
+            flex-shrink: 0;
+        }
+    } 
+}
