@@ -1,4 +1,4 @@
-# Not my first web project
+# My first SCSS web project
 
 ##  Install Node
 
